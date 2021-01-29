@@ -1,0 +1,29 @@
+{
+  "name": "ayn",
+  "version": "0.0.1",
+  "description": "Lrows Public Register Bot V12 ",
+  "main": "Lrows.js",
+  "scripts": {
+    "start": "node Lrows.js"
+  },
+  "dependencies": {
+    "discord.js": "^12.4.0",
+    "chalk": "^4.1.0",
+    "moment": "^2.29.1",
+    "jimp": "^0.16.1",
+    "quick.db": "^7.1.2",
+    "express": "^4.17.1",
+    "node-superfetch": "^0.1.10",
+    "common-tags": "^1.8.0",
+    "snekfetch": "^4.0.4",
+    "parse-ms": "^2.1.0"
+  },
+  "engines": {
+    "node": "12.x"
+  },
+  "keywords": [
+    "node",
+    "glitch",
+    "express"
+  ]
+}
